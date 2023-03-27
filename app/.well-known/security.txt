@@ -1,0 +1,4 @@
+Contact: mailto:securitytxt@yard.nl
+Expires: 2023-10-21T13:24:00.000Z
+Preferred-Languages: en, nl
+Hiring: https://www.yard.nl/werken-bij/
